@@ -1,0 +1,1 @@
+{$category.description2 nofilter} 
